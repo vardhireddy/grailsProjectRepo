@@ -1,0 +1,6 @@
+03-11 13:57:33 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "TASK_TAGS" not found; SQL statement:
+alter table task_tags drop constraint FKAC86293D4D4990B [42102-164]
+03-11 13:57:33 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "TASK_TAGS" not found; SQL statement:
+alter table task_tags drop constraint FKAC86293F653CFE9 [42102-164]
